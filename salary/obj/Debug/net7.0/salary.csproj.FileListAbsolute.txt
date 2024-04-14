@@ -1,0 +1,36 @@
+/Users/ohsangwoo/Desktop/midterm/salary/salary/bin/Debug/net7.0/salary
+/Users/ohsangwoo/Desktop/midterm/salary/salary/bin/Debug/net7.0/salary.deps.json
+/Users/ohsangwoo/Desktop/midterm/salary/salary/bin/Debug/net7.0/salary.runtimeconfig.json
+/Users/ohsangwoo/Desktop/midterm/salary/salary/bin/Debug/net7.0/salary.dll
+/Users/ohsangwoo/Desktop/midterm/salary/salary/bin/Debug/net7.0/salary.pdb
+/Users/ohsangwoo/Desktop/midterm/salary/salary/bin/Debug/net7.0/TextFile.dll
+/Users/ohsangwoo/Desktop/midterm/salary/salary/obj/Debug/net7.0/salary.csproj.AssemblyReference.cache
+/Users/ohsangwoo/Desktop/midterm/salary/salary/obj/Debug/net7.0/salary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ohsangwoo/Desktop/midterm/salary/salary/obj/Debug/net7.0/salary.AssemblyInfoInputs.cache
+/Users/ohsangwoo/Desktop/midterm/salary/salary/obj/Debug/net7.0/salary.AssemblyInfo.cs
+/Users/ohsangwoo/Desktop/midterm/salary/salary/obj/Debug/net7.0/salary.csproj.CoreCompileInputs.cache
+/Users/ohsangwoo/Desktop/midterm/salary/salary/obj/Debug/net7.0/salary.csproj.CopyComplete
+/Users/ohsangwoo/Desktop/midterm/salary/salary/obj/Debug/net7.0/salary.dll
+/Users/ohsangwoo/Desktop/midterm/salary/salary/obj/Debug/net7.0/refint/salary.dll
+/Users/ohsangwoo/Desktop/midterm/salary/salary/obj/Debug/net7.0/salary.pdb
+/Users/ohsangwoo/Desktop/midterm/salary/salary/obj/Debug/net7.0/salary.genruntimeconfig.cache
+/Users/ohsangwoo/Desktop/midterm/salary/salary/obj/Debug/net7.0/ref/salary.dll
+/Users/ohsangwoo/Desktop/midterm/salary/salary/bin/Debug/net7.0/input.txt
+/Users/ohsangwoo/Desktop/School/2nd_semester/Object-Oriented Programming/Lab/midterm/salary/salary/bin/Debug/net7.0/input.txt
+/Users/ohsangwoo/Desktop/School/2nd_semester/Object-Oriented Programming/Lab/midterm/salary/salary/bin/Debug/net7.0/salary
+/Users/ohsangwoo/Desktop/School/2nd_semester/Object-Oriented Programming/Lab/midterm/salary/salary/bin/Debug/net7.0/salary.deps.json
+/Users/ohsangwoo/Desktop/School/2nd_semester/Object-Oriented Programming/Lab/midterm/salary/salary/bin/Debug/net7.0/salary.runtimeconfig.json
+/Users/ohsangwoo/Desktop/School/2nd_semester/Object-Oriented Programming/Lab/midterm/salary/salary/bin/Debug/net7.0/salary.dll
+/Users/ohsangwoo/Desktop/School/2nd_semester/Object-Oriented Programming/Lab/midterm/salary/salary/bin/Debug/net7.0/salary.pdb
+/Users/ohsangwoo/Desktop/School/2nd_semester/Object-Oriented Programming/Lab/midterm/salary/salary/bin/Debug/net7.0/TextFile.dll
+/Users/ohsangwoo/Desktop/School/2nd_semester/Object-Oriented Programming/Lab/midterm/salary/salary/obj/Debug/net7.0/salary.csproj.AssemblyReference.cache
+/Users/ohsangwoo/Desktop/School/2nd_semester/Object-Oriented Programming/Lab/midterm/salary/salary/obj/Debug/net7.0/salary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ohsangwoo/Desktop/School/2nd_semester/Object-Oriented Programming/Lab/midterm/salary/salary/obj/Debug/net7.0/salary.AssemblyInfoInputs.cache
+/Users/ohsangwoo/Desktop/School/2nd_semester/Object-Oriented Programming/Lab/midterm/salary/salary/obj/Debug/net7.0/salary.AssemblyInfo.cs
+/Users/ohsangwoo/Desktop/School/2nd_semester/Object-Oriented Programming/Lab/midterm/salary/salary/obj/Debug/net7.0/salary.csproj.CoreCompileInputs.cache
+/Users/ohsangwoo/Desktop/School/2nd_semester/Object-Oriented Programming/Lab/midterm/salary/salary/obj/Debug/net7.0/salary.csproj.CopyComplete
+/Users/ohsangwoo/Desktop/School/2nd_semester/Object-Oriented Programming/Lab/midterm/salary/salary/obj/Debug/net7.0/salary.dll
+/Users/ohsangwoo/Desktop/School/2nd_semester/Object-Oriented Programming/Lab/midterm/salary/salary/obj/Debug/net7.0/refint/salary.dll
+/Users/ohsangwoo/Desktop/School/2nd_semester/Object-Oriented Programming/Lab/midterm/salary/salary/obj/Debug/net7.0/salary.pdb
+/Users/ohsangwoo/Desktop/School/2nd_semester/Object-Oriented Programming/Lab/midterm/salary/salary/obj/Debug/net7.0/salary.genruntimeconfig.cache
+/Users/ohsangwoo/Desktop/School/2nd_semester/Object-Oriented Programming/Lab/midterm/salary/salary/obj/Debug/net7.0/ref/salary.dll
